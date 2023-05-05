@@ -1,0 +1,191 @@
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Up {
+    margin: auto;
+    margin-top: -68px;
+    left: 0;
+    width: 100%;
+    height: 8%;
+    background: black;
+    z-index: 1;
+  }
+     
+  #Home {
+      text-decoration: none;
+    margin-top: -47px;
+    margin-left: 170px;
+      height:100%;
+      width: 9%;
+      background: grey;
+  }
+  
+  .UpName {
+      font-family:'Arial';
+      color:white;
+     margin-left: 55px;
+     padding-top: 25px;
+  }
+  
+  .Pres {
+      font-family:'Arial';
+      color:white;
+      margin-left: 220px;
+      margin-top: -50px;
+      
+  }
+  
+  .Tut {
+      font-family:'Arial';
+      color:white;
+      margin-left: 370;
+      margin-top: -20px;
+  }
+  
+  .img1 {
+      
+      margin-left:45%;
+      z-index: 2;
+  }
+  
+  .Ot {
+      font-family:'Arial';
+      color:white;
+      margin-left: 75%;
+      margin-top: -22px;
+  }
+  
+  .Kontakt {
+      font-family:'Arial';
+      color:white;
+      margin-left: 83%;
+      margin-top: -23px;
+  }
+  
+
+.hh {
+    color:red;
+    margin-left: 25%;
+}
+
+#hhh {
+    margin-left: 35px;
+}
+
+.T1 {
+    
+    height: 300px;
+    width: 360px;
+    margin: 0px;
+    
+}
+
+#T11 {
+    position: relative;
+    ;
+    margin-top: 15px;
+    margin-left: 35px;
+    width: 350px;
+}
+
+#txt{
+    font-family: 'Inter';
+margin-left: 500px;
+margin-top: -250px;
+
+}
+
+#Zak {
+    height: 40;
+    width: 70;
+    margin-top: 25px;
+    margin-left: 80%;
+    background-color: red;
+}
+
+#Telega {
+    margin-top: -90px;
+    margin-left: 86%;
+}
+
+
+
+.end {
+    margin-top:250px;
+    margin-left:45%;
+}
+
+.T2 {
+    margin-top: 45px;
+    height: 26%;
+    width: 100%;
+    
+}
+
+.T3 {
+    margin-top: 180px;
+    height: 26%;
+    width: 100%;
+   
+}
+
+.h {
+
+    margin-top:-20px;
+}
+
+.teg1 {
+    position: absolute;
+        top: 0;
+        right: 0;
+        padding: 2px;
+        background-color:red;
+    }
+
+    .teg2 {
+position: absolute;
+    top: 0;
+    right: 0;
+    padding: 2px;
+    background-color:yellow;
+}
+
+.teg3 {
+    position: absolute;
+        top: 0;
+        right: 0;
+        padding: 2px;
+        background-color:green;
+    }
+
+    .N {
+        line-height: 1.5em;
+        margin-left: 120px;
+    }
+
+.inv{
+    line-height:1.5em;
+    margin-left: 120px;
+    color: rgba(0,0,0,0.5);
+}
+   
+.money {
+    line-height:1.5em;
+    margin-left: 160px;
+}
+
+.buy {
+    margin-left: 1500px;
+    margin-top: 15px;
+}
+
+.cost {
+    margin-left: 1525px;
+    margin-top: 90px;
+}

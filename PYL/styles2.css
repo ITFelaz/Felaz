@@ -1,0 +1,81 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.Up {
+    margin: auto;
+    margin-top: -68px;
+    left: 0;
+    width: 100%;
+    height: 8%;
+    background: black;
+    z-index: 1;
+  }
+     
+  #Home {
+      text-decoration: none;
+    margin-left: 325px;
+    margin-top: -50px;
+      height:105%;
+      width: 10%;
+      background: grey;
+  }
+  
+  .UpName {
+      font-family:'Arial';
+      color:white;
+     margin-left: 55px;
+     padding-top: 25px;
+  }
+  
+  .Pres {
+        color: white;
+      font-family:'Arial';
+      color:white;
+      margin-left: 200px;
+      margin-top: -45px;
+      
+  }
+  
+  .Tut {
+      font-family:'Arial';
+      color:white;
+      margin-left: 370;
+      margin-top: -20px;
+  }
+  
+  .img1 {
+      
+      margin-left:45%;
+      z-index: 2;
+  }
+  
+  .Ot {
+      font-family:'Arial';
+      color:white;
+      margin-left: 75%;
+      margin-top: -22px;
+  }
+  
+  .Kontakt {
+      font-family:'Arial';
+      color:white;
+      margin-left: 82%;
+      margin-top: -23px;
+  }
+
+  .hh {
+    color:red;
+    margin-left: 25%;
+	margin-top:75px;
+	font-weight:bolder;
+    }   
+	.hh1 {
+    color:black;
+    margin-left: 25%;
+	margin-top:100px;
+	font-weight: 100;
+	text-decoration:blink;
+    }   

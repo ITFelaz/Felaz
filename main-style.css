@@ -1,0 +1,85 @@
+body {
+    background-color: #D3D3D3;
+    background-image: url(Foto/bg.jpg);
+}
+
+header {
+    padding: 10px 0px;
+    background-color: black;
+    
+}
+.text1 {
+    color: #FFE4E1;
+    left: 100px;
+}
+
+.text2 {
+    color: #FFE4E1;
+   
+}
+
+.txt {
+    position: relative;
+    left: 40px;
+    color: #FFE4E1;
+}
+
+.txtt {
+    position: relative;
+    left: 60px;
+    color: #FFE4E1;
+}
+  
+
+p {
+    text-indent: 10%;
+}
+.Input1 {
+    position: absolute;
+    right: 250px;
+    padding: 3px 10px;
+}
+.Input2 {
+    position: absolute;
+    right: 460px;
+    padding: 3px 10px;
+}
+.id1 {
+    position: absolute;
+    right: 168px;
+    padding: 7px 24px;
+}
+
+.id1:hover{
+    opacity: .80;
+    font-weight: bold;
+    transform: scale(1.1);
+}
+
+.id2 {
+    position: absolute;
+    right: 20px;
+    padding: 4px 24px;
+    top: 10px;
+}
+
+.my-carusel {
+    position: absolute;
+    width: 1618px;
+    left: 155px;
+    }
+
+.tut {
+    position: absolute;
+    top: 1000px;
+}
+
+a{
+    text-decoration: none;
+    color: #FFE4E1;;
+}
+
+footer {
+    background-color: black;
+    height: 100px;
+}

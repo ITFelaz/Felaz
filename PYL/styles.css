@@ -1,0 +1,104 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.Up {
+  margin: auto;
+  margin-top: -68px;
+  left: 0;
+  width: 100%;
+  height: 8%;
+  background: black;
+  z-index: 1;
+}
+   
+#Home {
+    text-decoration: none;
+  top: 0;
+  left: 0;
+    height:100%;
+    width: 9%;
+    background: grey;
+}
+
+.UpName {
+    font-family:'Arial';
+    color:white;
+   margin-left: 55px;
+   padding-top: 25px;
+}
+
+.Pres {
+    font-family:'Arial';
+    color:white;
+    margin-left: 220px;
+    margin-top: -50px;
+    
+}
+
+.Tut {
+    font-family:'Arial';
+    color:white;
+    margin-left: 370;
+    margin-top: -20px;
+}
+
+.img1 {
+    
+    margin-left:45%;
+    z-index: 2;
+}
+
+.Ot {
+    font-family:'Arial';
+    color:white;
+    margin-left: 75%;
+    margin-top: -22px;
+}
+
+.Kontakt {
+    font-family:'Arial';
+    color:white;
+    margin-left: 83%;
+    margin-top: -23px;
+}
+
+.banner {
+
+  left: 0;
+  top: 77px;
+}
+
+.txt {
+  
+    margin-top: 100px;
+    margin-left:50%;
+}
+
+.text {
+    margin-top: 30px;
+    margin-left:45%;
+    z-index: 2;
+}
+
+.end {
+    margin-top:250px;
+    margin-left:45%;
+}
+
+.hand1 {
+    z-index: 0;
+    margin-top:-450px;
+}
+
+.hand2 {
+    z-index: 0;
+    margin-top:-460px;
+    margin-left:1403px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
